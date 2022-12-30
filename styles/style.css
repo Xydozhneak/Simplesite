@@ -1,0 +1,125 @@
+@import url(normalize.css);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    font-family: 'Roboto';
+    
+}
+header{
+    
+    width: 100%;
+     padding: 5% 0 0 0; 
+    background-color:#EEEFF1 ;
+}
+.menu{
+    text-transform: uppercase; 
+    font-style: normal;
+}
+
+
+ul{
+    padding: 5% 5% 5% 15%;
+}
+
+
+ li{  
+    display: inline;
+}
+
+
+h3{
+    padding: 0 5% 0 15%;
+}
+
+
+.menu a{  
+    color: #000000;
+     margin: 1%; 
+    text-decoration: none;
+}
+
+
+
+
+h1{
+    padding: 5% 5% 5% 15%;
+}
+
+
+
+
+header p{
+    padding: 0% 5% 5% 15%;
+    color: #727272;  
+}
+
+
+
+header button{
+    padding:1%;
+    margin: 0 0 5% 15%;
+    border: none;
+    color:#EEEFF1;
+    font-size: 100%; 
+    background-color:#34547A ;
+width: 10%;
+}
+
+
+
+
+.about{
+     padding: 5% 0% 5% 0%;  
+    width: 100%;
+    background-color:#ffffff;  
+    text-align: center;
+}
+
+
+.about p{
+    margin-top: 5%; 
+    text-align: center;
+    color: #727272;
+}
+
+
+.projects {
+    width: 100%;
+    background-color: #34547A;
+    padding: 5% 0% 5% 0%; 
+}
+
+
+
+
+.content_work{
+    width: 100%;
+    background-color:#EEEFF1 ;
+    text-align: center;
+    padding-top: 5%;
+}
+
+
+
+.content_work p {
+    margin-top:5% ;
+    color: #727272;
+}
+
+
+.content_work iframe {
+    padding: 0 0 4% 0;
+}
+
+
+footer{
+    background-color: #34547A;
+    width: 100%;
+    padding: 5% 0 0 0%;
+     color: #FFFFFF;
+}
+
+
+footer p {
+    padding: 0 0 2% 15%;
+}
+
